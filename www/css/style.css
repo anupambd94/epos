@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    font-size: 13px;
+    color: rgb(2, 105, 109);
+}
+
+pre {
+    background: #eee;
+    padding: 0.25em 0.5em;
+}
+
+#myInput {
+    background-image: url('/css/searchicon.png');
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    width: 100%;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+}
+
+p {
+    margin-bottom: 5px;
+}
+
+.nav-item.listBorder {
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.nav-item.listBorder a {
+    text-align: center;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    border: 1px solid #b9b8b8;
+}
